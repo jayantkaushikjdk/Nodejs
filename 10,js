@@ -1,0 +1,5 @@
+let car={
+    make: "t", model: "d", year: 22, elec: false, sta: function(){
+        console.log("En")
+    }
+};
